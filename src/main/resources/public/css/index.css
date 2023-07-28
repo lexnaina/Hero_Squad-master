@@ -1,0 +1,30 @@
+.btn-index{
+    padding: 3%;
+    margin-top: 3%;
+    margin-right: 75%;
+}
+
+.hero-form{
+    padding: 5%;
+}
+
+.squad-form{
+    padding: 10%
+}
+
+.hero-form input, .squad-form input{
+    width: 500px;
+}
+
+#background{
+    background-image: url(https://images.unsplash.com/photo-1608889476518-738c9b1dcb40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cards{
+    margin-right: 1%;
+    margin-left: 6%;
+    height: 430px;
+    width: 400px;
+}
