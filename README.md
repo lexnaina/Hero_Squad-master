@@ -2,11 +2,11 @@
 
 ## Author
 
-Peter Njukia
+Alex Kinyanjui
 
 ## Demo
 
-![](src/main/resources/public/images/readme.png)
+![](src/main/resources/public/images/hero2.jpg)
 
 ### Description
 
@@ -90,4 +90,6 @@ This project is under the [MIT](LICENSE) licence
 
 ### Copyright
 
-Copyright (c) 2023 Peter Njukia
+Copyright (c) 2023 Alex Kinyanjui
+
+
